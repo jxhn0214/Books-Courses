@@ -1,3 +1,6 @@
-def structure_city_country(city, country):
-    formatted_city_country = f"{city}, {country}"
+def structure_city_country(city, country, population=''):
+    if population:
+        formatted_city_country = f"{city}, {country} - population {population}"
+    else:
+        formatted_city_country = f"{city}, {country}"
     return formatted_city_country.title()

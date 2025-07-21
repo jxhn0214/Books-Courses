@@ -1,0 +1,5 @@
+In python you can create parent classes and child classes
+In python you can import different modules that people created
+In python you can create your own functions and import them from different files
+In python you can create for loops and while loops
+In python there are the data types of int, bool, char, str, and etc
